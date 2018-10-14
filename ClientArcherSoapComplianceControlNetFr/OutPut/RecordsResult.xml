@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" count="3">
+  <Record contentId="3537257" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537257</Field>
+    <Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">25</Field>
+    <Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">100</Field>
+    <Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">0</Field>
+    <Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">[22679]/[22679]*100</Field>
+    <Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="2">100%</Field>
+  </Record>
+  <Record contentId="3537258" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537258</Field>
+    <Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">0</Field>
+    <Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">100</Field>
+    <Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">15</Field>
+    <Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">100-[22681]</Field>
+    <Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="2">85%</Field>
+  </Record>
+  <Record contentId="3537259" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537259</Field>
+    <Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">0,4</Field>
+    <Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">0,6</Field>
+    <Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">5</Field>
+    <Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">100*([22678]-[22679])-[22681]</Field>
+    <Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="2">15,0%</Field>
+  </Record>
+</Records>
