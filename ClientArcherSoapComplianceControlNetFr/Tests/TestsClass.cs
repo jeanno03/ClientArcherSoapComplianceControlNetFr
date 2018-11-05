@@ -51,8 +51,8 @@ namespace ClientArcherSoapComplianceControlNetFr.Tests
 
             //method to convert xml to a string
             XmlDocument document = new XmlDocument();
-            document.Load("\\Users\\Jeannory.Phou\\source\\repos\\git\\ClientArcherSoapComplianceControl" +
-                            "\\ClientArcherSoapComplianceControl\\Files\\Input.xml");
+            document.Load("\\Users\\Jeannory.Phou\\source\\repos\\git\\ClientArcherSoapComplianceControlNetFr" +
+                            "\\ClientArcherSoapComplianceControlNetFr\\Files\\Input.xml");
             string stringXml = xmlMethods.GetXMLAsString(document);
 
             Console.WriteLine("Automatic : Return xml to string : ");
